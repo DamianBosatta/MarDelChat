@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win10\\Desktop\\Programs c#\\MarDelChat\\MarDelChat\\MarDelChat\\MarDelChat.csproj": {}
+    "C:\\Users\\gc\\source\\repos\\MarDelChat\\MarDelChat\\MarDelChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win10\\Desktop\\Programs c#\\MarDelChat\\MarDelChat\\MarDelChat\\MarDelChat.csproj": {
+    "C:\\Users\\gc\\source\\repos\\MarDelChat\\MarDelChat\\MarDelChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win10\\Desktop\\Programs c#\\MarDelChat\\MarDelChat\\MarDelChat\\MarDelChat.csproj",
+        "projectUniqueName": "C:\\Users\\gc\\source\\repos\\MarDelChat\\MarDelChat\\MarDelChat.csproj",
         "projectName": "MarDelChat",
-        "projectPath": "C:\\Users\\Win10\\Desktop\\Programs c#\\MarDelChat\\MarDelChat\\MarDelChat\\MarDelChat.csproj",
-        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win10\\Desktop\\Programs c#\\MarDelChat\\MarDelChat\\MarDelChat\\obj\\",
+        "projectPath": "C:\\Users\\gc\\source\\repos\\MarDelChat\\MarDelChat\\MarDelChat.csproj",
+        "packagesPath": "C:\\Users\\gc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gc\\source\\repos\\MarDelChat\\MarDelChat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
