@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "db8H7oyU6FRlyZksS6la0DIFKRbnl0TFlF3hf4ovt/SBg1OdHfGfMS4ebD6pWtjXHDNG1/9LwunAqmwgoHeAcw==",
+  "dgSpecHash": "3tO8sTf2JSP/lL4UYMrXCQ/oFYL/7o3sNBcUtO7jYSlnAFizfbwnSOOuDvXOaCjaV12FRtB451VADm9zKZZuMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gc\\Source\\Repos\\MarDelChat\\MarDelChat\\MarDelChat.csproj",
+  "projectFilePath": "C:\\Users\\gc\\source\\repos\\MarDelChat\\MarDelChat\\MarDelChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
